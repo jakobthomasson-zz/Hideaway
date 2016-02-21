@@ -33,7 +33,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * Created by jakob on 2015-05-18.
+ * Created by jakob on 2015-12-15.
  */
 public class MapFragment extends Fragment implements ClusterManager.OnClusterClickListener<Place>, ClusterManager.OnClusterInfoWindowClickListener<Place>, ClusterManager.OnClusterItemClickListener<Place>, ClusterManager.OnClusterItemInfoWindowClickListener<Place>{
     private static final String IMAGE_CACHE_DIR = "thumbs";

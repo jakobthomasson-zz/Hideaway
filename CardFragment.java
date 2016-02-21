@@ -29,7 +29,7 @@ import it.gmariotti.cardslib.library.recyclerview.view.CardRecyclerView;
 import it.gmariotti.cardslib.library.view.CardViewNative;
 
 /**
- * Created by jakob on 2015-05-18.
+ * Created by jakob on 2015-12-18.
  */
 public class CardFragment extends Fragment{
     CardArrayRecyclerViewAdapter mCardArrayAdapter;

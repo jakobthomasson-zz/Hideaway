@@ -17,7 +17,7 @@
 package com.example.mam032.hideaways.provider;
 
 /**
- * Some simple test data to use for this sample app.
+ * Some simple test data to use for this sample app, gonna modify this class to add alot of hideaways randomly to see how the application behaves with alot of data.
  */
 public class Images {
 

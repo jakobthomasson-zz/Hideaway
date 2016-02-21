@@ -3,7 +3,7 @@ package com.example.mam032.hideaways.model;
 import java.util.ArrayList;
 
 /**
- * Created by Dude on 2015-11-09.
+ * Created by Dude on 2015-12-09.
  */
 public class Globals{
     private static Globals instance;

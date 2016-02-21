@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 
 /**
- * Created by jakob on 2015-05-18.
+ * Created by jakob on 2015-01-03.
  */
 public class SocialFragment extends Fragment{
     Button button;
